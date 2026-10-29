@@ -1,0 +1,8 @@
+{
+  "name": "Remix The Restaurant KC | Kansas Comfort \u0026 Classic Diner",
+  "description": "Official website and live kitchen management portal for The Restaurant KC at 6720 Kaw Dr, Kansas City, KS. Homestyle all-day breakfast, legendary giant pork tenderloins, handcrafted burgers, online ordering, table reservations, and live owner administration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
